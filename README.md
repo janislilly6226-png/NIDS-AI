@@ -28,3 +28,7 @@ label_encoder.pkl  scaler.pkl         xgboost.pkl
 ┌──(lunar㉿mail)-[~/Desktop/lilly]
 └─$
 ```
+## Now i using my models.
+
+https://github.com/user-attachments/assets/b12f4342-4bf4-49c3-bf9f-17d026dca964
+
