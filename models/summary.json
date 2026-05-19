@@ -1,0 +1,16 @@
+{
+  "trained_at": "2026-05-06 17:39:57",
+  "random_forest_accuracy": 100.0,
+  "xgboost_accuracy": 99.41,
+  "best_model": "random_forest",
+  "classes": [
+    "BENIGN",
+    "Bot",
+    "BruteForce",
+    "DDoS",
+    "DoS Hulk",
+    "Infiltration",
+    "PortScan"
+  ],
+  "n_features": 79
+}
